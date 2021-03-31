@@ -2,7 +2,7 @@ Django==1.11.29
 argparse==1.2.1
 cssselect==0.9.1
 flup==1.0.2
-lxml==4.6.2
+lxml==4.6.3
 pymongo==2.8
 pyquery==1.2.9
 python-dateutil==2.4.1
